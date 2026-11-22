@@ -19,6 +19,9 @@ It combines hand gesture recognition and eye blink detection using computer visi
 - Hand gesture-based scrolling
 - Eye blink-based scrolling
 - Combined hand and eye control
+- ## Project Dashboard
+
+![Touchless Scrolling System Dashboard](dashboard.png)
 
 ## Project Files
 - main_dashboard.py
